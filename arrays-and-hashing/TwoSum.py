@@ -23,5 +23,5 @@ class Solution(object):
         
         return None
 
-        # Time Complexity: O(n) where n is len(nums) because thereis one loop
+        # Time Complexity: O(n) where n is len(nums) because there is one loop
         # Space Complexity: O(n) since in the worst case each item in nums is inserted into the hash table
