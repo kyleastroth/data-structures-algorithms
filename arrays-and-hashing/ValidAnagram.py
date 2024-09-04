@@ -5,6 +5,7 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
+        
         # 1. Base Case: if the strings have different lengths they cannot be anagrams
         if len(s) != len(t): return False
 
